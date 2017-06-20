@@ -1,6 +1,9 @@
 # OpenSetting
+
 快速打开Android设备的指定设置页面
+
 经过测试，使用下面字段可以在软件中直接打开相应的系统界面
+
 　　com.android.settings.Settings 系统设置
 　　com.android.settings.AccessibilitySettings 辅助功能设置
 　　com.android.settings.ActivityPicker 选择活动
